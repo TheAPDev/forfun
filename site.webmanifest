@@ -1,0 +1,13 @@
+{
+  "name": "Homeeni",
+  "short_name": "Homeeni",
+  "description": "AI home security ecosystem for Indian homes",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#141B2B",
+  "theme_color": "#141B2B",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
